@@ -27,4 +27,12 @@
 
 12 - Realizar uma requisição http utilizando Fetch API
 
-13 - 
+13 - Manipulando o resultado da requisição através de uma Promise
+
+14 - Transformando nossa lista de Pokémon em uma lista de HTML
+
+15 - Utilizando a função Map para diminuir a verbosidade do nosso Código
+
+16 - Adicionando os tipos de Pokémon dinamicamente
+
+17 - Adicionando o botão de paginação
